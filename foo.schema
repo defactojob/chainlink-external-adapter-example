@@ -1,0 +1,6 @@
+@0xa7fea85837600796;
+
+struct Point {
+  x @0 :Int16;
+  y @1 :Int16;
+}
